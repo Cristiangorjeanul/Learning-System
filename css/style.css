@@ -212,6 +212,7 @@ ul li:hover ul {
   color: black;
   text-shadow: none;
 }
+
 .identifier {
   width: 27px;
   height: 27px;
@@ -422,7 +423,7 @@ ul li:hover ul {
 }
 
 .footer-article img {
-  width: 54%;
+  width: 85%;
   padding: 1px;
   margin-bottom: 3px;
 }
